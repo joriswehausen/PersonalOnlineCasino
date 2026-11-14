@@ -1,4 +1,4 @@
-# 🎰 Personal Online Casino
+# 🎰 Digitale Spielhalle mit virtuellem Guthaben
 Das ist ein persönliches Projekt, bei dem ich aus Spaß ein lokales Casino mit Python programmiere. Du kannst es dir gerne ansehen und mir Feedback oder Tipps zur Verbesserung geben. Es ist noch NICHT fertig; ich habe gerade erst mit dem neuen Projekt begonnen und wollte dabei Git für mich entdecken. Bei meinem alten Projekt hatte ich einfach den gesamten Code in eine einzige Datei gepackt (der mittlerweile nicht einmal mehr richtig funktioniert), und beim neuen Projekt wollte ich versuchen, den Code aufzuteilen und das Ganze hoffentlich etwas übersichtlicher zu gestalten.
 
 
